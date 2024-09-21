@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "PTT",
-    "link": "http://ptt.tooil.eu"
+    "link": "http://107.174.39.10:8090"
   },
   {
     "icon": "Cloud",
@@ -30,8 +30,13 @@
     "link": "http://8.152.161.64:5678"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "Compass",
     "name": "memos",
     "link": "https://m.tooil.eu"
+  },
+  {
+    "icon": "Compass",
+    "name": "思源笔记",
+    "link": "http://117.72.16.206:6806/"
   }
 ]
