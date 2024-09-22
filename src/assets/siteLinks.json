@@ -1,6 +1,11 @@
 [
   {
     "icon": "Blog",
+    "name": "SZS",
+    "link": "http://107.174.39.10:3019/"
+  },
+  {
+    "icon": "Blog",
     "name": "PTT",
     "link": "http://107.174.39.10:8090"
   },
